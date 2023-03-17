@@ -1,18 +1,13 @@
 module.exports = {
-    content: ['./src/**/*.{js,jsx}'],
-    darkMode: 'class',
+    content: ["./src/**/*.{js,jsx}"],
+    mode: "jit",
     theme: {
-        fontFamily: {
-            display: ['Inter', 'sans-serif'],
-            body: ['Inter', 'sans-serif'],
-        },
         extend: {
             colors: {
-                azure: '#206ebd',
-                skyblue: '#00a3dd',
-                royalblue: '#2f529f',
-                gold: '#f7aa3c'
-            }
+                primary: "#6a3fa1",
+                secondary: "#ebebeb",
+                tertiary: "#f5f5f5",
+            },
         },
     },
     plugins: [],
