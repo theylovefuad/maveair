@@ -13,5 +13,6 @@ import arrowright from './arrowright.svg'
 import rafiki2 from './rafiki2.png'
 import more from './more.png'
 import wallpaper from './wallpaper.jpg'
+import notification from './notification.png'
 
-export { vector, logo2, maveairlogo, ellipse, logincurve, tag, truckfast, box, securityuser, rafiki, rafiki2, truck, arrowright, more, wallpaper }
+export { vector, logo2, maveairlogo, ellipse, logincurve, tag, truckfast, box, securityuser, rafiki, rafiki2, truck, arrowright, more, wallpaper, notification }
