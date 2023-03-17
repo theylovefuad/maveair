@@ -1,4 +1,4 @@
-import logo2 from './logo2.svg'
+import logo1 from './logo2.svg'
 import vector from './Vector.svg'
 import maveairlogo from './mave-air-logo.svg'
 import ellipse from './ellipse.svg'
@@ -15,4 +15,4 @@ import more from './more.png'
 import wallpaper from './wallpaper.jpg'
 import notification from './notification.png'
 
-export { vector, logo2, maveairlogo, ellipse, logincurve, tag, truckfast, box, securityuser, rafiki, rafiki2, truck, arrowright, more, wallpaper, notification }
+export { vector, logo1, maveairlogo, ellipse, logincurve, tag, truckfast, box, securityuser, rafiki, rafiki2, truck, arrowright, more, wallpaper, notification }
