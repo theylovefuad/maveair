@@ -4,13 +4,13 @@ const Nav = ({ show, setShow }) => {
 
     return (
         <>
-            <article className={`fixed flex flex-col left-0 top-0 bg-primary ${show ? 'w-3/4' : 'w-0'} z-10 h-screen`}>
-                <div className='h-1/3 p-6 flex items-center justify-center'>
+            <article className={`fixed flex flex-col left-0 top-0 bg-primary ${show ? 'w-4/5' : 'w-0'} z-10 h-screen`}>
+                <div className='h-1/4 p-6 flex items-center justify-center'>
                     <img src={maveairlogo} alt='logo' />
                 </div>
                 {
                     show ? (
-                        <div className='bg-white h-2/3 p-6 side-bottom'>
+                        <div className='bg-white h-3/4 p-6 side-bottom'>
                             <div className='flex flex-col space-y-8'>
                                 {
                                     sidebarMaps.map((option) => {
